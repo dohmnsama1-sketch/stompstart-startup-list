@@ -1,0 +1,59 @@
+name: Flourish Robots
+tagline: A phone-taught home robot for scheduled household tasks
+description: >-
+  Flourish 1 is a wheeled home robot that owners teach by guiding it through a
+  task with a phone. Taught routines can be repeated on demand or assigned a
+  schedule. The first batch is limited to 50 units, with deliveries planned
+  for December 2026.
+problem: Repetitive household chores take time and must be performed again on a regular schedule.
+audience:
+  - Households seeking help with routine chores
+  - Developers building applications for home robots
+website: https://flourish-robots.com/
+access:
+  - kind: browse
+    url: https://flourish-robots.com/
+categories:
+  - ai-and-agents
+stage: live
+pricing:
+  model: paid
+  entry_price:
+    amount_minor: 355500
+    currency: usd
+    interval: one_off
+  pricing_url: https://flourish-robots.com/
+company:
+  name: Flourish Robots
+  relationship: independent
+location:
+  country: US
+  city: San Francisco
+platforms:
+  - hardware
+logo:
+  path: logo.webp
+  alt: Flourish Robots orange circular mark with pale branching lines
+gallery:
+  - path: flourish-1.jpg
+    alt: Flourish 1 home robot next to a parent and children at a table
+sources:
+  - url: https://flourish-robots.com/
+    title: Official Flourish Robots product, pricing and specifications
+  - url: https://www.prnewswire.com/news-releases/flourish-robots-launches-flourish-1--a-3-555-home-robot-built-to-give-people-their-potential-back-302891638.html
+    title: Flourish Robots launch announcement
+  - url: https://framerusercontent.com/images/WMilSBKAGAOq8MbhsvLmwh4NE.png
+    title: Original official Flourish Robots brand mark
+  - url: https://framerusercontent.com/images/G462B649dPgavCL1Cx2TnTLuH0U.jpg
+    title: Original official Flourish 1 product image
+launch:
+  title: Flourish Robots introduces Flourish 1
+  summary: Flourish Robots emerged from stealth and opened pre-orders for its first batch of home robots.
+  occurred_on:
+    precision: day
+    value: "2026-09-29"
+  date_basis: announced
+  source:
+    url: https://www.prnewswire.com/news-releases/flourish-robots-launches-flourish-1--a-3-555-home-robot-built-to-give-people-their-potential-back-302891638.html
+    title: Flourish Robots launches Flourish 1
+    locator: Release dateline and opening paragraphs dated September 29, 2026
